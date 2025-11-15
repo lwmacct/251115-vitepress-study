@@ -30,3 +30,8 @@ main
 # build
 /build/
 /dist/
+
+# VitePress
+docs/.vitepress/dist
+docs/.vitepress/cache
+**/package-lock.json

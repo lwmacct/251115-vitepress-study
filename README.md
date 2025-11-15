@@ -111,6 +111,7 @@ task -a
 - https://github.com/lwmacct
 - https://yuque.com/lwmacct
 - https://github.com/vuejs/vitepress
+- https://lwmacct.github.io/251115-vitepress-study/
 
 ## 许可证
 
