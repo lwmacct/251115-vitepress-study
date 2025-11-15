@@ -87,9 +87,12 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/getting-started' },
       { text: 'API', link: '/api/introduction' },
+      { text: '示例', link: '/examples' },
       {
         text: '更多',
         items: [
+          { text: 'FAQ', link: '/faq' },
+          { text: '贡献指南', link: '/contributing' },
           { text: '关于', link: '/about' },
           { text: '更新日志', link: '/changelog' }
         ]
