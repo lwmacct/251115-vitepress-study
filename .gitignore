@@ -1,0 +1,32 @@
+# 本地环境
+**/.DS_Store
+**/.local/*
+**/.venv/*
+**/.conda/*
+**/.taskfile/.env
+
+**/node_modules/*
+
+# 临时目录
+**/tmp/**
+**/log/**
+**/logs/**
+**/temp/**
+**/cache/**
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+# golang
+main
+
+# build
+/build/
+/dist/

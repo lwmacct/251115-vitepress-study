@@ -1,0 +1,27 @@
+{
+  "name": "251115-vitepress-study",
+  "version": "1.0.0",
+  "description": "- Use [Taskfile](https://taskfile.dev) to manage the project's CLI - Use [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) to create a development environment",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwmacct/251115-vitepress-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lwmacct/251115-vitepress-study/issues"
+  },
+  "homepage": "https://github.com/lwmacct/251115-vitepress-study#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.24"
+  }
+}
